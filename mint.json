@@ -14,7 +14,7 @@
     "topbarLinks": [
       {
         "name": "Dashboard",
-        "url": "https://intualai.com/app/projects"
+        "url": "https://console.intualai.com/app/projects"
       },
       {
         "name": "Support",
