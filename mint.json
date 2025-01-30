@@ -28,7 +28,7 @@
       },
       {
         "group": "Info",
-        "pages": ["info/about", "info/pricing", "info/careers", "info/contact", "info/privacy-policy"]
+        "pages": ["info/about", "info/careers", "info/contact", "info/privacy-policy"]
       },
       {
         "group": "Features",
