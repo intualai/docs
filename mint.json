@@ -14,11 +14,11 @@
     "topbarLinks": [
       {
         "name": "Dashboard",
-        "url": "https://console.intualai.com/app/projects"
+        "url": "https://console.intual.ai"
       },
       {
         "name": "Support",
-        "url": "https://docs.intualai.com/info/contact"
+        "url": "https://docs.intual.ai/info/contact"
       }
     ],
     "navigation": [
@@ -42,7 +42,7 @@
       }
     ],
     "footerSocials": {
-      "website": "https://intualai.com"
+      "website": "https://intual.ai"
     }
   }
   
